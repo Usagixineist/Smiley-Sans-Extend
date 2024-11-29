@@ -60,6 +60,10 @@
 
 ## 其他扩充范围：
 
-- 2350基本谚文
+### 基础注音符号
 
-<img src="hangul\hangul.PNG">
+<img src="testpic\bopomofo.PNG">
+
+### 2350基本谚文
+
+<img src="testpic\hangul.PNG">
