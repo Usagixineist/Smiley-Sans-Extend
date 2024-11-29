@@ -62,8 +62,8 @@
 
 ### 基础注音符号
 
-<img src="testpic\bopomofo.PNG">
+<img src="testpic\bopomofo.png">
 
 ### 2350基本谚文
 
-<img src="testpic\hangul.PNG">
+<img src="testpic\hangul.png">
